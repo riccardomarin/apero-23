@@ -2,15 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi there! Here I am!
+description: I am a Post Doctoral researcher, working on Spectral Shape Analysis, Shape Matching, Geometric Deep Learning, and Virtual Humans. I am an Humboldt Fellow, part of Marie Skłodowska-Curie Actions, and an ELLIS Member. <br >For my CV click **[here](CVlatex.pdf)**
 image_left: false
 images:
-- img/papillons.jpg
+- img/profilo.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+subtitle: Postdoc at the [Real Virtual Humans Group](https://virtualhumans.mpi-inf.mpg.de/) <br >(University of Tübingen, Tübingen AI Center)
+text_align_left: true
+title: Riccardo Marin
 type: home
 ---
 
