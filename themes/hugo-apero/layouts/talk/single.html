@@ -26,17 +26,21 @@
         {{ partial "shared/post-pagination.html" . }}
       </footer>
        -->
+           {{ if .Params.bibtex }}
+
+Cite:
+<br>
+
+<object width="750" height="200" type="text/plain" data="bibtex.tex" border="2"
+   style="overflow: hidden;">
+</object>
+  {{end}}
     </article>
     {{ if .Params.show_comments }}
       {{ partial "shared/comments.html" . }}
     {{ end }}
   </section>
   
-    {{ if .Params.bibtex }}
-    
-<object width="910" height="340" type="text/plain" data="bibtex.tex" border="0"
-   style="overflow: hidden;">
-</object>
-  {{end}}
+
 </main>
 {{ end }}

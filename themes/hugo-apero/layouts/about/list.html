@@ -43,7 +43,6 @@
           {{ end }}
         </div> <!--close wide column -->
         {{ end }}
-
     <!--begin sidebar-->
     {{ $sidebar := printf "/%s/%s" .Section "sidebar/index.md" }}
     {{ $sidebar_pg := site.GetPage $sidebar }}
@@ -54,7 +53,7 @@
               {{- $avatar := ($sidebar_pg.Resources.ByType "image").GetMatch "*avatar*" -}}
               {{ $avatar_shape := .Params.avatar_shape | default "circle" }}
               {{ with $avatar }}
-                <img src="{{ .RelPermalink }}" class="h4 w4 dib {{if eq $avatar_shape "rounded"}}br3{{end}}{{if eq $avatar_shape "circle"}}br-100{{end}}" alt="avatar">
+                <img src="{{ .RelPermalink }}" class="h4 w4 dib {{if eq $avatar_shape "rounded"}}br3{{end}}{{if eq $avatar_shape "circle"}}br-100{{end}}" alt="avatar" style="width:100% !important;height:100% !important;">
               {{ end }}
             {{ end }}
             <h2 class="f-subheadline f4-ns fw6">{{ .Params.author }}</h2>
