@@ -19,10 +19,10 @@ links:
   icon_pack: fab
   name: code
   url: /talk/23-popup/
-- icon: quote-left
-  icon_pack: fas
-  name: cite
-  url: https://github.com/filthynobleman/slime-manifold
+#- icon: quote-left
+#  icon_pack: fas
+#  name: cite
+#  url: https://github.com/filthynobleman/slime-manifold
 location: 
 show_post_time: false
 bibtex: True
