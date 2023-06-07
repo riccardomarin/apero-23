@@ -3,7 +3,7 @@ title: "Farm: Functional automatic registration method for 3d human bodies"
 author: "**Riccardo Marin**, Simone Melzi, Emanuele Rodolà, Umberto Castellani"
 date: "2020-02-20"
 event:  Computer Graphics Forum, CGF, 2020
-excerpt: A full automatic pipeline for 3D human shapes that combine intrinsic shape matching and template registration
+excerpt: A full automatic pipeline for 3D human shapes that combine intrinsic shape matching, automatic landmarks detection, and template registration
 links:
 - icon: paper-plane
   icon_pack: fas
