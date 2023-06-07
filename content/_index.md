@@ -2,7 +2,9 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a Post Doctoral researcher, working on Spectral Shape Analysis, Shape Matching, Geometric Deep Learning, and Virtual Humans. I am an Humboldt Fellow, part of Marie Skłodowska-Curie Actions, and an ELLIS Member. <br >For my CV click **[here](./img/CVlatex.pdf)**
+description: "I am a Post Doctoral researcher, working on Spectral Shape Analysis, Shape Matching, Geometric Deep Learning, and Virtual Humans.
+\n
+I am an Humboldt Fellow, part of Marie Skłodowska-Curie Actions, and an ELLIS Member. <br >For my CV click **[here](./img/CVlatex.pdf)**"
 image_left: false
 images:
 - img/profilo.jpg
