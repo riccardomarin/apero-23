@@ -1,23 +1,23 @@
 ---
-title: "Localized Shape Modelling with Global Coherence: An Inverse Spectral Approach"
-author: Marco Pegoraro, Simone Melzi, Umberto Castellani, **Riccardo Marin**, Emanuele Rodolà
-date: "2022-05-20"
-event:  Computer Graphics Forum, CGF, 2022 (Presented at SGP)
-excerpt: We combine the spectra of different linear operators to learn of to semantically modify shape geometries. 
+title: "A functional skeleton transfer"
+author: Pietro Musoni, **Riccardo Marin**, Simone Melzi, Umberto Castellani
+date: "2022-09-20"
+event:  ACM on Computer Graphics and Interactive Techniques, 2021 (Presented at SCA)
+excerpt: A new representation for skeleton regressors, and an efficient transfer via Laplacian eigenfunctions.
 links:
 - icon: paper-plane
   icon_pack: fas
   name: article
-  url: Advances in Neural Information Processing Systems
+  url: https://arxiv.org/pdf/2108.12041.pdf
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/marco-peg/localized-shape-modelling-with-global-coherence
+  url: https://github.com/pietromsn/functional-skeleton-transfer
 #- icon: quote-left
 #  icon_pack: fas
 #  name: cite
 #  url: https://github.com/filthynobleman/slime-manifold
-subtitle: "Many natural shapes have most of their characterizing features concentrated over a few regions in space. For example, humans and animals have distinctive head shapes, while inorganic objects like chairs and airplanes are made of well-localized functional parts with specific geometric features. Often, these features are strongly correlated – a modification of facial traits in a quadruped should induce changes to the body structure. However, in shape modelling applications, these types of edits are among the hardest ones; they require high precision, but also a global awareness of the entire shape. Even in the deep learning era, obtaining manipulable representations that satisfy such requirements is an open problem posing significant constraints. In this work, we address this problem by defining a data-driven model upon a family of linear operators (variants of the mesh Laplacian), whose spectra capture global and local geometric properties of the shape at hand. Modifications to these spectra are translated to semantically valid deformations of the corresponding surface. By explicitly decoupling the global from the local surface features, our pipeline allows to perform local edits while simultaneously maintaining a global stylistic coherence. We empirically demonstrate how our learning-based model generalizes to shape representations not seen at training time, and we systematically analyze different choices of local operators over diverse shape categories."
+subtitle: "The animation community has spent significant effort trying to ease rigging procedures. This is necessitated because the increasing availability of 3D data makes manual rigging infeasible. However, object animations involve understanding elaborate geometry and dynamics, and such knowledge is hard to infuse even with modern data-driven techniques. Automatic rigging methods do not provide adequate control and cannot generalize in the presence of unseen artifacts. As an alternative, one can design a system for one shape and then transfer it to other objects. In previous work, this has been implemented by solving the dense point-to-point correspondence problem. Such an approach requires a significant amount of supervision, often placing hundreds of landmarks by hand. This paper proposes a functional approach for skeleton transfer that uses limited information and does not require a complete match between the geometries. To do so, we suggest a novel representation for the skeleton properties, namely the functional regressor, which is compact and invariant to different discretizations and poses. We consider our functional regressor a new operator to adopt in intrinsic geometry pipelines for encoding the pose information, paving the way for several new applications. We numerically stress our method on a large set of different shapes and object classes, providing qualitative and numerical evaluations of precision and computational efficiency. Finally, we show a preliminar transfer of the complete rigging scheme, introducing a promising direction for future explorations."
 categories:
 - Conference
 date_end: ""
