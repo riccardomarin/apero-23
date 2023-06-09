@@ -8,7 +8,7 @@ draft: false
 event: Computer Graphics Forum
 event_url: https://global.rstudio.com
 excerpt: We propose a novel characterization of the mold algorithm to work on arbitrary curved surfaces.
-featured: true
+featured: false
 layout: single
 links:
 - icon: paper-plane

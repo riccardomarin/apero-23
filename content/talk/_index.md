@@ -26,7 +26,7 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
-  title: Talks that Last
+  title: Publications
 title: Publications
 paginate: 20
 ---

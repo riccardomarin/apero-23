@@ -18,7 +18,7 @@ show_post_thumbnail: true
 sidebar:
   author: Riccardo Marin
   categories_link: false
-  description: This is my personal  [Digital Garden](https://maggieappleton.com/garden-history). It is a place where I let thoughts and contents grow freely.
+  description: This is my personal  [Digital Garden](https://maggieappleton.com/garden-history); a place to let thoughts and contents grow freely.
   # "This is a fully featured blog that supports categories,\ntags, series,
   #  and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
   #  the _index.md file in the /blog folder \nto edit this content. \n"

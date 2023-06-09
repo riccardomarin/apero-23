@@ -1,7 +1,7 @@
 ---
 ## Configure page content in wide column
 title: "Informal Bio" # leave blank to exclude
-number_featured: 0 # pulling from mainSections in config.toml
+number_featured: 3 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true

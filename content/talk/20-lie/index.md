@@ -23,7 +23,7 @@ categories:
 date_end: ""
 draft: false
 event_url: 
-featured: false
+featured: true
 layout: single
 location: 
 show_post_time: false

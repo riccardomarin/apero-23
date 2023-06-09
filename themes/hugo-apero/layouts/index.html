@@ -27,8 +27,9 @@
 </p>
       </div>
     </div>
+          {{ if gt $page.Params.number_featured 0 }}
+          {{ partial "shared/summary-li" . }}
+          {{ end }}
   </section>
-
-    
 </main>
 {{ end }}

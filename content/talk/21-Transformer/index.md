@@ -10,7 +10,7 @@ event: NeurIPS
 event_url: https://global.rstudio.com
 excerpt:  We propose a transformer-based procedure for the efficient registration of non-rigid 3D point clouds.
 
-featured: true
+featured: false
 layout: single
 links:
 - icon: paper-plane

@@ -4,10 +4,11 @@ categories:
 - Announcements
 date: "2023-06-06"
 draft: false
-excerpt: Planting a first introduction seed.
+excerpt: "Looking back, I see two things I have almost always enjoyed: computers and writing. I have done both for a long time, with some rare attempts to do both together. In the last six years, I have focused on scientific research. With time passing, I feel that a significant part of my work schedule is shifting toward communication. And I have felt an increasing need to share thoughts somewhere."
 layout: single
 subtitle: A little explanation on why I am doing this.
 title: About this place.
+featured: true
 ---
 Looking back, I see two things I have almost always enjoyed: computers and writing. I have done both for a long time, with some rare attempts to do both together.
 

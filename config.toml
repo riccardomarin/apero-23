@@ -13,6 +13,7 @@ paginate = 200
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
+featured = true
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -33,7 +34,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.png"
   logo = ""#"/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project"]
+  mainSections = ["talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -124,8 +125,8 @@ enableEmoji = true
     url = "/talk/"
     weight = 2
   [[menu.header]]
-    name = "DigitalGarden"
-    title = "DigitalGarden"
+    name = "Blog"
+    title = "Blog"
     url = "/blog/"
     weight = 3
 #  [[menu.header]]
