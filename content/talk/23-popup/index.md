@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 event_url: 
-excerpt: We propose a novel characterization of the mold algorithm to work on arbitrary curved surfaces.
+excerpt: We show that an unorganized 3D human point cloud provides enough information to infer a 3D interacted object, opening new directions in the human-object interaction research. We also analyze the impact of different levels of information and a saliency study about the geometrical features of the input human point cloud.
 featured: true
 layout: single
 links:
