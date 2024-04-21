@@ -2,7 +2,7 @@
 author: "**Riccardo Marin**, Enric Corona, Gerard Pons-Moll"
 categories:
 - Conference
-date: "2024-04-22"
+date: "2024-04-20"
 date_end: ""
 draft: false
 event:  ArXiv.
