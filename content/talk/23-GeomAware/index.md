@@ -5,7 +5,7 @@ categories:
 date: "2024-04-22"
 date_end: ""
 draft: false
-event:  ArXiv, 2023.
+event:  ArXiv.
 event_url: 
 excerpt: We propose a novel localized Neural Field (LoVD), the first self-supervised task for tuning neural fields (INT), and an efficient (takes less than a minute) scalable registration pipeline (NSR), that works with out-of-distribution data (partial point clouds, clutter, different poses, ...).
 featured: true
