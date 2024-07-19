@@ -11,10 +11,14 @@ excerpt: We propose a novel localized Neural Field (LoVD), the first self-superv
 featured: true
 layout: single
 links:
+- icon: archive
+  icon_pack: fas
+  name: Project Page
+  url: https://neural-icp.github.io/
 - icon: paper-plane
   icon_pack: fas
-  name: article
-  url: https://neural-icp.github.io/
+  name: paper
+  url: https://arxiv.org/abs/2312.14024
 - icon: github
   icon_pack: fab
   name: code

@@ -26,8 +26,9 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
-  title: Publications
-title: Publications
+  title: Selected Publications
+title: "Selected Publications <br>      
+<h3><center>[Find a complete list on my Google Scholar](https://scholar.google.com/citations?user=qhw2qgQAAAAJ)</center></h3>"
 paginate: 20
 ---
 
