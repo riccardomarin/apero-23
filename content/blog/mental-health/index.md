@@ -3,7 +3,7 @@ author: Riccardo Marin
 categories:
 - Meta-Research
 date: "2023-07-23"
-draft: false
+draft: true
 excerpt: "About Mental Health and Academia"
 layout: single
 subtitle: Between the disregard and the rhetoric.
