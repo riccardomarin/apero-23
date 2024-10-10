@@ -7,7 +7,7 @@ headline: |
 ---
 **BIO**
 <!-- this is a subheadline -->
-I am a post-doctoral researcher at the Computer Vision Group of the Technical University of Munich (TUM), supervised by Prof. Daniel Cremers. Previously, I was a postdoc funded by a Humboldt and a Marie Sk\l{}odowska-Curie Post-Doctoral Fellowships at the University of T{\"u}bingen in the Real-Virtual Humans group led by Prof. Gerard Pons-Moll, and a post-doc at Sapienza University of Rome in the GLADIA group led by Prof. Emanuele Rodol\`{a}.
+I am a post-doctoral researcher at the Computer Vision Group of the Technical University of Munich (TUM), supervised by Prof. Daniel Cremers. Previously, I was a postdoc funded by a Humboldt and a Marie Sklodowska-Curie Post-Doctoral Fellowships at the University of Tubingen in the Real-Virtual Humans group led by Prof. Gerard Pons-Moll, and a post-doc at Sapienza University of Rome in the GLADIA group led by Prof. Emanuele Rodolà.
 
 I followed the University of Verona's Ph.D program in Computer Science, under the supervision of Prof. Umberto Castellani, collecting a Best PhD Thesis award by EG-Italy. I graduated in Computer Science and Engineering at the University of Verona (2017). I work on Spectral Shape Analysis, Shape Matching Geometric Deep Learning, and Virtual Humans. 
 

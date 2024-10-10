@@ -4,7 +4,7 @@ action_link: /about
 action_type: text
 description: "I am a Post Doctoral researcher, working on Spectral Shape Analysis, Shape Matching, Geometric Deep Learning, and Virtual Humans.
 \n
-I am an Alexander von Humboldt Foundation Alumni, a Marie Skłodowska-Curie Individual Fellow, and an ELLIS Member. <br >For my CV click **[here](./img/CVlatex.pdf)**"
+I am an Alexander von Humboldt Foundation Marie Skłodowska-Curie Alumni, and an ELLIS Member. <br >For my CV click **[here](./img/CVlatex.pdf)**"
 image_left: false
 images:
 - img/profilo.jpg
