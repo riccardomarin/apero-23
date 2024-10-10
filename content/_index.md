@@ -10,7 +10,7 @@ images:
 - img/profilo.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Postdoc at the [Real Virtual Humans Group](https://virtualhumans.mpi-inf.mpg.de/) <br >(University of Tübingen, Tübingen AI Center)
+subtitle: Postdoc at the [Computer Vision Group (TUM)](https://cvg.cit.tum.de/) <br >(Technical University of Munich)
 text_align_left: true
 title: Riccardo Marin
 type: home
