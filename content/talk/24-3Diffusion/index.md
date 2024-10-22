@@ -2,7 +2,7 @@
 author: Yuxuan Xue, Xianghui Xie, **Riccardo Marin**, Gerard Pons-Moll
 categories:
 - Conference
-date: "2024-12-06"
+date: "2024-10-12"
 date_end: ""
 draft: false
 event:  Conference on Neural Information Processing Systems (NeurIPS), 2024.
