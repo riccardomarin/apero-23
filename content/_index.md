@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: "I am a Professor, working on Spectral Shape Analysis, Shape Matching, Geometric Deep Learning, and Virtual Humans.
+description: "I work on Spectral Shape Analysis, 3D Shape Matching, Geometric Deep Learning, and Virtual Humans.
 \n
 I am an ELLIS Member, and an Alexander von Humboldt Foundation and a Marie Skłodowska-Curie Alumni. <br >For my CV click **[here](./img/CVlatex.pdf)**"
 image_left: false
