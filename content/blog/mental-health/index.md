@@ -8,7 +8,7 @@ excerpt: "About Mental Health and Academia"
 layout: single
 subtitle: Between the disregard and the rhetoric.
 title: A confused and in-progress collection of thoughts.
-featured: true
+featured: false
 ---
 It must be the summer of 2011 or so. I am in front of high-school commission, and I have just taken my oral exam. Before letting me go, they ask the ritual question: "What will you do next?". I remember that was a huge question for my entire last year. 
 
