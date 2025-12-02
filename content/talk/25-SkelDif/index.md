@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 event_url: 
-excerpt: We propose a novel diffusion noise scheduler that takes into account the skeleton structure.
+excerpt: We propose a novel diffusion noise scheduler that takes into account the skeleton structure. Instead of assuming that every joint is an independent variable (isotropic), we use the kinematic tree to take into account the joints' interdependencies in the noise formulation (Nonisotropic). We apply this framework to the human motion prediction task, resulting in more diverse and realistic motion than previous works.
 featured: false
 layout: single
 links:
