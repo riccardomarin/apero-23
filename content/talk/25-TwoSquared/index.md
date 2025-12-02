@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event:  International Conference on 3D Vision (3DV), 2026.
 event_url: 
-excerpt: We recover a 4D realistic deformation between two sparse unordered point clouds. After applying shape matching and registration methods to obtain rough and noisy correspondence, we leverage the theory of level-set methods to infer a deformation that is continuous and physically plausible. 
+excerpt: Recovering a 4D realistic deformation from just two RGB images.
 featured: false
 layout: single
 links:

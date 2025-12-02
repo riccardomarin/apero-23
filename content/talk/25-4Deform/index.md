@@ -7,7 +7,7 @@ date_end: ""
 draft: false
 event:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 event_url: 
-excerpt: Recovering a 4D realistic deformation from just two RGB images.
+excerpt: We recover a 4D realistic deformation between two sparse unordered point clouds. After applying shape matching and registration methods to obtain rough and noisy correspondence, we leverage the theory of level-set methods to infer a deformation that is continuous and physically plausible. 
 featured: true
 layout: single
 links:
